@@ -1,0 +1,15 @@
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\bin\Debug\CameraAppDemo.dll
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\bin\Debug\CameraAppDemo.pdb
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\bin\Debug\CameraAppDemo.dll.mdb
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\bin\Debug\CameraAppDemo.CameraAppDemo.apk
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\bin\Debug\CameraAppDemo.CameraAppDemo-Signed.apk
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\CameraAppDemo.dll
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\CameraAppDemo.pdb
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\android\bin\CameraAppDemo.CameraAppDemo.apk
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\res\layout\main.xml
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\res\values\strings.xml
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\res\drawable\icon.png
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\res\layout\strings.xml
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\R.cs.flag
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\uploadflags.txt
+C:\Users\Aniket\Documents\Projects\CameraAppDemo\CameraAppDemo\obj\Debug\res\drawable\click1.png
